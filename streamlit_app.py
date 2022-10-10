@@ -10,8 +10,6 @@ streamlit.header('Breakfast Menu')
 streamlit.text('Omega 3 & Blueberry Oatmeal')
 streamlit.text('Kale, Spinach & Rocket Smoothie')
 streamlit.text('Hard-Boiled Free-Range Egg')
-
-
 Fruit,Serving_Size,Serving_Gram_Weight,Serving_Ounce_Weight,Calories,Calories_from Fat,Total_Fat_G,Total_Fat_DV,Sodium_MG,Sodium_DV,Potassium_MG,Potassium_DV,Total_Carbs_G),Total_Carbs_DV,Dietary_Fiber_G,Dietary_Fiber_DV,Sugars_G,Protein_G,Vitamin_C_DV,Vitamin_A_DV,Calcium_DV,Iron_DV
 Apple,1 large,242 g,8 oz,130,0,0,0,0,0,260,7,34,11,5,20,25,1,2,8,2,2
 Avocado,1/5 medium,30 g,1.1 oz,50,35,4.5,7,0,0,140,4,3,1,1,4,0,1,0,4,0,2
@@ -33,3 +31,4 @@ Strawberries,8 medium,147 g,5.3 oz,50,0,0,0,0,0,170,5,11,4,2,8,8,1,0,160,2,2
 Cherries,21 cherries; 1 cup,140 g,5.0 oz,100,0,0,0,0,0,350,10,26,9,1,4,16,1,2,15,2,2
 Tangerine,1 medium,109 g,3.9 oz,50,0,0,0,0,0,160,5,13,4,2,8,9,1,6,45,4,0
 Watermelon,2 cups diced pieces,280 g,10.0 oz,80,0,0,0,0,0,270,8,21,7,1,4,20,1,30,25,2,4
+
